@@ -48,7 +48,7 @@ export function HeroPortrait() {
           lime rim-glow and a dark contact shadow so it reads as part of the scene. */}
       <div className="relative aspect-square w-full">
         <img
-          src="/images/abdullah-saleem-portrait.png"
+          src="/images/abdullah-saleem-portrait.9ae6111b4a.png"
           alt="Abdullah Saleem, Local SEO strategist"
           className="relative z-10 h-full w-full object-contain object-bottom mask-fade-b"
           style={{
